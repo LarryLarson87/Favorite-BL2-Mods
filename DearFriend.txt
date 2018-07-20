@@ -1,0 +1,1 @@
+        set GD_Weap_SniperRifles.Name.Title.Title__Unique_Chere-amie PartName Dear Friend
